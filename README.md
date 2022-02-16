@@ -1,6 +1,6 @@
 
 ### Hi there 👋, my name is Nurettin
-### MEEE 👋, I'm a student who develops and projects myself on the backend. While developing my applications, I use the react library on the front end.
+### MEEE 👋, I'm a student who develops and projects myself on the backend. While developing my applications, I use the react library on the front end. I am not FullStack developer. (::
 
 ![I am GitHub Readme Generator's creator](https://i1.wp.com/www.jobkilla.com/wp-content/uploads/job-manager-uploads/company_logo/2020/06/Node.js-Developer.png?fit=1140%2C545&ssl=1)
 
