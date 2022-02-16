@@ -1,6 +1,6 @@
 
 ### Hi there 👋, my name is Nurettin
-### Announcement 👋, My blog project will be finished soon.What excites me about this project is that people can write and share blogs about a topic.
+### MEEE 👋, I'm a student who develops and projects myself on the backend. While developing my applications, I use the react library on the front end.
 
 ![I am GitHub Readme Generator's creator](https://i1.wp.com/www.jobkilla.com/wp-content/uploads/job-manager-uploads/company_logo/2020/06/Node.js-Developer.png?fit=1140%2C545&ssl=1)
 
@@ -42,7 +42,7 @@
 <code><img height="50" src="https://external-preview.redd.it/0ZU_b6UtIHWxXE1MMl4qMF6vNDfdRG-ohEp-8OgAKwE.jpg?auto=webp&s=562c018bae28346b88cdb9c382d6fb2a14fd4850"></code>
 <code><img height="50" src="https://avatars.githubusercontent.com/u/25457492?s=280&v=4"></code>
 <code><img height="50" src="https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png"></code>
-<code><img height="50" src="https://pbs.twimg.com/card_img/1469925578178445312/RQ-F7KtI?format=png&name=small"></code>
+<code><img height="50" src="https://www.sistas.com.tr/wp-content/uploads/2020/12/Kubernetes-4.jpg"></code>
 
 
 
