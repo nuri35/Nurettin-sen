@@ -1,6 +1,6 @@
 
 ### Hi there 👋, my name is Nurettin
-### MEEE 👋, I'm a student who develops and projects myself on the backend. While developing my applications, I use the react library on the front end. I am not FullStack developer. (::
+### MEEE 👋, I'm a student who develops and projects myself on the backend. While developing my applications, I use the react library on the front end. I am not FullStack developer. (:: 
 
 ![I am GitHub Readme Generator's creator](https://i1.wp.com/www.jobkilla.com/wp-content/uploads/job-manager-uploads/company_logo/2020/06/Node.js-Developer.png?fit=1140%2C545&ssl=1)
 
@@ -18,6 +18,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://camo.githubusercontent.com/792f7fce1ff8bfac6d0524a21b69161cdc6080a3c4e39979f21d5f8489d6fdd3/68747470733a2f2f692e626c6f67732e65732f3534356366382f6573362d6c6f676f2f6f726967696e616c2e706e67"></code>
+
+<code><img height="20" src="https://akademi.bilgeadam.com/wp-content/uploads/2021/01/application-development-with-python.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"></code>
 
 **Frameworks**
 
