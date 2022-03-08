@@ -27,7 +27,8 @@
 <code><img height="50" src="https://raw.githubusercontent.com/aleksandryackovlev/openapi-mock-express-middleware/master/assets/express-logo.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/yargs/yargs/main/yargs-logo.png"></code>
 <code><img height="50" src="https://camo.githubusercontent.com/6835eb33bb0e58ae663c7b9baeddf2a76cc6cf98862769eddbe22ee45c00a17b/687474703a2f2f63646e2e61757468302e636f6d2f696d672f70617373706f72742d62616e6e65722d6769746875622e706e67"></code>
-src="https://barankaraboga.com/wp-content/uploads/2019/03/1_9hwcv7fEVKEw5LyWFok-lA.jpeg"></code>
+<code><img height="50" src="https://barankaraboga.com/wp-content/uploads/2019/03/1_9hwcv7fEVKEw5LyWFok-lA.jpeg"></code>
+
 
 **DATABASE**
 
