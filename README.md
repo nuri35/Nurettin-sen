@@ -27,6 +27,7 @@
 <code><img height="50" src="https://raw.githubusercontent.com/aleksandryackovlev/openapi-mock-express-middleware/master/assets/express-logo.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/yargs/yargs/main/yargs-logo.png"></code>
 <code><img height="50" src="https://camo.githubusercontent.com/6835eb33bb0e58ae663c7b9baeddf2a76cc6cf98862769eddbe22ee45c00a17b/687474703a2f2f63646e2e61757468302e636f6d2f696d672f70617373706f72742d62616e6e65722d6769746875622e706e67"></code>
+src="https://barankaraboga.com/wp-content/uploads/2019/03/1_9hwcv7fEVKEw5LyWFok-lA.jpeg"></code>
 
 **DATABASE**
 
@@ -46,8 +47,11 @@
 <code><img height="50" src="https://avatars.githubusercontent.com/u/25457492?s=280&v=4"></code>
 <code><img height="50" src="https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png"></code>
 <code><img height="50" src="https://www.sistas.com.tr/wp-content/uploads/2020/12/Kubernetes-4.jpg"></code>
+<code><img height="50" src="https://mehmetbutun.com/wp-content/uploads/2020/05/redis.png"></code>
+<code><img height="50" src="https://herve.beraud.io/images/blog/rabbitmq.png"></code>
 
 **Test**
+
 <code><img height="50" src="https://e7.pngegg.com/pngimages/21/493/png-clipart-mocha-node-js-javascript-software-testing-npm-github-logo-sign.png"></code>
 <code><img height="50" src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4"></code>
 
