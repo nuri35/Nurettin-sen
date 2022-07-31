@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nuri35?tab=repositories](https://github.com/nuri35?tab=repositories)
 
-- 💬 Ask me about **Node js**
+- 💬 Ask me about **Node js express nest js kubernetes docker**
 
 - 📫 How to reach me **nurie487@gmail.com**
 
