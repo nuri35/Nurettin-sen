@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuri35" alt="nuri35" /></a> </p>
 
-- 🔭 I’m currently working on [Template_validation](https://github.com/nuri35/template-validation-1)
+- 🔭 I’m currently working on [Sc3 project](https://sc3.dataunitor.com/Login)
 
 - 👨‍💻 All of my projects are available at [https://github.com/nuri35?tab=repositories](https://github.com/nuri35?tab=repositories)
 
