@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuri35" alt="nuri35" /></a> </p>
 
-- 🔭 I worked on [Sc3 project](https://sc3.dataunitor.com/Login)
+- 🔭 I worked on [Sc3, Tyronic AI big project]()
 
 - 👨‍💻 All of my projects are available at [https://github.com/nuri35?tab=repositories](https://github.com/nuri35?tab=repositories)
 
